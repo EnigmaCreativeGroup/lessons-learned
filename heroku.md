@@ -55,3 +55,7 @@ end
 This has worked successfully for me and now i'm no longer getting H14 warning
 and my memory usage is consistently below 500MB.
 
+Success! :)
+
+![Heroku Success](https://raw.githubusercontent.com/EnigmaCreativeGroup/lessons-learned/master/img/heroku-memory.png)
+
